@@ -61,9 +61,9 @@ public class muonTraSachDAO {
             pre.setString(1, MAMT);
             pre.setString(2, MASV);
             pre.setString(3, MAS);
-            pre.setString(4, HINHTHUCMUON);
-            pre.setString(5, QUANLYTV);
-            pre.setInt(6, SOLUONGMUON);
+            pre.setString(4,SOLUONGMUON );
+            pre.setString(5, HINHTHUCMUON);
+            pre.setInt(6,QUANLYTV );
             pre.setString(7, NGAYMUON);
             pre.setString(8, NGAYTRA);
             i = pre.executeUpdate();
