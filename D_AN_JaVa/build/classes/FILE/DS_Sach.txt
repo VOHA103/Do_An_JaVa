@@ -1,0 +1,21 @@
+MS09      Ông Già Nhìn Ra Thế Giới      Đỗ Nhật Nam      1997      Tâm lý      800      100000      Còn      
+MS05      Bàn Về Khế Ước Xã Hội      Trang Hạ      1885      Văn hóa xã hội – Lịch sử      300      150000      Còn      
+MS15      Từng có một người yêu tôi như sinh mệnh      Thư Nghi      2017      Truyện ngôn tình      200      60000      Còn      
+MS11      The Last Lecture - Bài giảng cuối cùng      Randy Pausch & Jeffrey Zaslow      1990      Tâm lý      900      109000      Còn      
+MS19      Giải tích      Nguyễn  Sơn      2012      Giáo trình      300      20000      Còn      
+MS04      Nhà Khảo Cổ      Nguyễn Phong Việt      1998      Văn hóa xã hội – Lịch sử      150      100000      Còn      
+MS01      Cảm Ơn Người Lớn      Nguyễn Nhật Ánh      2000      Giáo trình      200      23000      Còn      
+MS07      Ăn Khế Trả Vàng      Nguyễn Ngọc Thạch      2002      Truyện      520      300000      Còn      
+MS17      Kinh Tế      Nguyễn Ngọc Sơn      1990      Chính trị – pháp luậ      900      500000      Còn      
+MS16      Kỹ thuật lập trình      Nguyễn Ngọc Sơn      1990      Chính trị – pháp luậ      900      500000      Còn      
+MS10      Kinh Tế Chính Trị      Nguyễn Ngọc Sơn      1990      Chính trị – pháp luật      900      500000      Còn      
+MS18      Xác xuất thống kê      Nguyễn Ngọc      2013      Giáo trình      500      40000      Còn      
+MS20      Đại số tuyến tính      Nguyễn Hoa      2011      Giáo trình      90      10000      Còn      
+MS03      Lượm      Kim Đồng      1993      Giáo trình      500      122000      Còn      
+MS021      Mắt Biết      HNGHA      2021      Tiểu Thuyết      121      123      Còn      
+MS12      Không gia đình      Hector Malot      2016      Tiểu thuyết      100      40000      Còn      
+MS08      Vịt Con Xấu Xí      Hamlet Trương      2003      Truyện      300      180000      Hết      
+MS14      Tội ác và trừng phạt      Fyodor Mikhailovich Dostoevsky      2016      Tiểu thuyết      200      30000      Còn      
+MS13      Ông già và biển cảị      Ernest Hemingway      2016      Tiểu thuyết      500      50000      Còn      
+MS02      Thánh Gióng      An Thiên      1995      Giáo trình      100      100000      Còn      
+MS06      Tiền Không Mua Được Gì      Anh Khang      2000      thiếu nhi      600      100000      Còn      

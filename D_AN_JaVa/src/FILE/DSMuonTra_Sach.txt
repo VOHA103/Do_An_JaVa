@@ -1,0 +1,25 @@
+MT001      SV001      MS01      3      Mượn về nhà      Nguyễn Quốc Sơn      2021-10-03      2021-10-08      
+MT002      SV002      MS02      2      Mượn tại chỗ      Võ Thị Thu Hà      2021-10-04      2021-10-04      
+MT003      SV003      MS03      1      Mượn về nhà      Nguyễn Tiến Đạt      2021-10-02      2021-10-08      
+MT004      SV004      MS04      3      Mượn tại chỗ      Dương Đông Duy      2021-10-01      2021-10-01      
+MT005      SV005      MS05      1      Mượn về nhà      Cáp Văn Quốc Huy      2021-09-30      2021-10-05      
+MT006      SV006      MS06      3      Mượn tại chỗ      Võ Chí Thái      2021-10-03      2021-10-03      
+MT007      SV007      MS07      2      Mượn về nhà      Phạm Thị Lệ Tuyền      2021-10-06      2021-10-08      
+MT008      SV008      MS08      3      Mượn tại chỗ      Nguyễn Thị Lệ Thanh      2021-10-01      2021-10-01      
+MT009      SV009      MS09      2      Mượn về nhà      Phạm Như Thanh Tùng      2021-10-05      2021-10-09      
+MT010      SV010      MS10      2      Mượn về nhà      Nguyễn Ngọc ánh      2021-09-29      2021-10-03      
+MT0100      SV001      MS01      2      Mượn về nhà      VOTHITHUHT      2001-01-10      2001-01-12      
+MT011      SV007      MS19      1      Mượn về nhà      Hoàng Thị Cẩm Vân      2021-10-02      2021-10-03      
+MT012      SV003      MS10      1      Mượn về nhà      Lê Thanh Hoàng      2021-09-29      2021-10-03      
+MT013      SV007      MS16      3      Mượn về nhà      Nguyễn Thị Hậu      2021-10-01      2021-10-03      
+MT014      SV009      MS17      1      Mượn về nhà      Lê Phước Tín      2021-09-30      2021-10-01      
+MT015      SV001      MS10      1      Mượn về nhà      Lê Văn Qui      2021-09-29      2021-10-03      
+MT016      SV006      MS09      1      Mượn về nhà      Hoàng Thị Cẩm Vân      2021-09-29      2021-10-03      
+MT017      SV010      MS10      1      Mượn về nhà      Hoàng Thị Cẩm Vân      2021-09-29      2021-10-01      
+MT018      SV003      MS11      1      Mượn tại chỗ      Nguyễn Thành Trung      2021-09-30      2021-09-30      
+MT019      SV001      MS20      3      Mượn về nhà      Hoàng Thị Cẩm Vân      2021-09-29      2021-11-03      
+MT020      SV003      MS10      1      Mượn về nhà      Mai Thị Mỹ Linh      2021-09-29      2021-10-03      
+MT021      SV007      MS16      2      Mượn về nhà      Hoàng Thị Cẩm Vân      2021-10-01      2021-10-03      
+MT022      SV009      MS17      1      Mượn về nhà      Phan Thị Thanh Nhã      2021-09-30      2021-10-01      
+MT023      SV001      MS10      1      Mượn tại chỗ      Hoàng Thị Cẩm Vân      2021-09-29      2021-09-29      
+MT024      SV006      MS09      2      Mượn về nhà      Lê Thị Nhi      2021-09-29      2021-10-03      
